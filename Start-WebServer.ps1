@@ -28,7 +28,7 @@ Start-Webserver.ps1 "http://+:8080/"
 Starts webserver with binding to all IP addresses of the system.
 Administrative rights are necessary.
 .Example
-Project Idea and Firt Author: Markus Scholtes, 2016-10-22
+Project Idea and First Author: Markus Scholtes, 2016-10-22 (Thank you!)
 Modified by: Lino Telera, 2017-08-29
 #>
 Import-Module -Force  "./ClassWebServer.ps1"

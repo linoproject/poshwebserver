@@ -25,9 +25,14 @@ Using this WebServer it's possible:
 Without specification webserver is binding port 8080 on localhost. it's possible specify an alternative IP:port simply specify them as argoument: Start-Webserver.ps1 "http://<ip>:<port>/"
 
 # TODO
-- Imporve OOP (use static class for template with tpl files)
+- Improve OOP (use static class for template with tpl files)
 - AWS and vCenter Keystore and profiles and with the following APIs
   -  Store 
   -  Check
   -  Login
   -  Logout
+
+# Notes and Thanks
+Project Idea and First Author: Markus Scholtes, 2016-10-22 (Thank you!)
+Modified by: Lino Telera, 2017-08-29
+Refactoring started by: Lino Telera 2020-10-01
